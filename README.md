@@ -28,13 +28,18 @@ MNIST 데이터셋은 28x28 크기의 흑백 손글씨 이미지로 이루어져
 
 ### 설치 방법
 1. **레포지토리 복제**:
-   ```bash
+  ```bash
   git clone https://github.com/MachuEngine/mnist-classifier.git
+  ```
+  ```bash
   cd mnist-classification
   ```
+
 2. **가상 환경 생성**:
   ```bash
   python -m venv mnist_env # 이름은 원하는대로
+  ```
+  ```bash
   source mnist_env/bin/activate  # Windows: mnist_env\Scripts\activate
   ```
 3. **필요한 라이브러리 설치**:
