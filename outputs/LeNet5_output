@@ -1,0 +1,6 @@
+Epoch [1/5], Loss: 0.2931
+Epoch [2/5], Loss: 0.0842
+Epoch [3/5], Loss: 0.0595
+Epoch [4/5], Loss: 0.0473
+Epoch [5/5], Loss: 0.0391
+Accuracy on test set: 99.00%
