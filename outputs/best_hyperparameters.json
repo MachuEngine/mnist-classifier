@@ -1,0 +1,9 @@
+{
+    "learning_rate": 0.0004778736375214793,
+    "batch_size": 256,
+    "dropout_rate": 0.37973492829372746,
+    "num_epochs": 8,
+    "early_stopping_patience": 8,
+    "scheduler_patience": 4,
+    "scheduler_factor": 0.5
+}
