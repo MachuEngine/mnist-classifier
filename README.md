@@ -32,7 +32,7 @@ MNIST 데이터셋은 비교적 단순하고 깨끗하기 때문에, 데이터 �
 
 ### 📈 모델 성능 분석
 LeNet-5 + 최적화 기법 적용
-최종 테스트 정확도: 99.28%
+- 최종 테스트 정확도: 99.28%
 
 **하이퍼파라미터 튜닝 결과:**
 - 학습률: 0.0029
@@ -44,9 +44,9 @@ LeNet-5 + 최적화 기법 적용
 ---
 
 ### 🛠 기술 스택 및 레포 구조 정리
-프레임워크: PyTorch
-주요 라이브러리: torchvision, optuna, scikit-learn, matplotlib
-저장소 구조:
+- 프레임워크: PyTorch
+- 주요 라이브러리: torchvision, optuna, scikit-learn, matplotlib
+- 저장소 구조:
 
 ```Bash
 mnist-classification/
